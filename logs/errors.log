@@ -1,0 +1,1 @@
+[07:49:41] [plugins/mysql] cache_get_value_name_int: value 'NULL' is not a number (includes\fonksiyonlar.pwn:15633 -> C:\Users\emrek\OneDrive\Masaüstü\SAMP\Regular Roleplay\gamemodes\mod.pwn:4794 -> C:\Users\emrek\OneDrive\Masaüstü\SAMP\Regular Roleplay\pawno\include\Pawn.RakNet.inc:1028)
